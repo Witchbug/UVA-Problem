@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408921502 source:/home/witchbug/Programming/UVA/11428 - Cubes/main.cpp
+	<iostream>
+	<math.h>
+

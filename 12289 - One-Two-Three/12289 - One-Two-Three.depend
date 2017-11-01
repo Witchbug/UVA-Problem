@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1410299493 source:/home/witchbug/Programming/UVA/12289 - One-Two-Three/main.cpp
+	<iostream>
+	<algorithm>
+

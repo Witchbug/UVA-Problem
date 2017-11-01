@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410374144 source:/home/witchbug/Programming/UVA/10921 - Find the Telephone/main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414311225 source:/home/witchbug/Programming/10107 - What is the Median/main.cpp
+	<iostream>
+	<algorithm>
+

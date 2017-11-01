@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410894986 source:f:\11389 - the bus driver problem\main.cpp
+	<iostream>
+	<algorithm>
+	<functional>
+

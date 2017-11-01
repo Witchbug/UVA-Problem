@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424894671 source:/home/witchbug/Desktop/Programming/UVA/10405 - Longest Common Subsequence cc/main.c
+	<stdio.h>
+	<string.h>
+

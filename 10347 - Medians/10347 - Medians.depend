@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410296394 source:/home/witchbug/Programming/UVA/10347 - Medians/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

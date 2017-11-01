@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409089735 source:/home/witchbug/Programming/UVA/12468 - Zapping/main.cpp
+	<iostream>
+	<algorithm>
+

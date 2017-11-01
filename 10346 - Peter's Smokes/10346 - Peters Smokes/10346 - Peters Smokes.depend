@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414953624 source:/home/witchbug/Programming/10346 - Peters Smokes/main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1410974457 source:f:\12149 - feynman\main.cpp
+	<iostream>
+	<math.h>
+

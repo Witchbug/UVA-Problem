@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414918332 source:/home/witchbug/Programming/11777 - Automate the Grades/main.cpp
+	<iostream>
+	<math.h>
+

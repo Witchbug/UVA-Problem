@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413487663 source:/home/witchbug/Programming/12342 - Tax Calculator/main.cpp
+	<iostream>
+	<math.h>
+

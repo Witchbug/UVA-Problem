@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408600881 source:/home/witchbug/Programming/UVA/10038 - Jolly Jumpers/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

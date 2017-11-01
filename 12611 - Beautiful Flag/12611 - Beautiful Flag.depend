@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410984957 source:f:\12611 - beautiful flag\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

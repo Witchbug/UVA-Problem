@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414699237 source:/home/witchbug/Programming/12704 - Little Masters/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

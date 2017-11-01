@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411405238 source:/home/witchbug/Programming/10432 - Polygon Inside A Circle/main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

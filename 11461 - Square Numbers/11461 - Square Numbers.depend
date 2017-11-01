@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413918333 source:/home/witchbug/Programming/11461 - Square Numbers/main.cpp
+	<iostream>
+	<math.h>
+
